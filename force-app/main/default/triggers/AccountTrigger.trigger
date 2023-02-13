@@ -1,3 +1,3 @@
-trigger AccountTrigger on Account__c (before insert) {
+trigger AccountTrigger on Account (before insert) {
 
 }
